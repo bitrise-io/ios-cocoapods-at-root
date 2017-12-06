@@ -242,6 +242,7 @@
 				TargetAttributes = {
 					BACC2C9C1C933622003570F6 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 72SA8V3WYL;
 					};
 					BACC2CBB1C933622003570F6 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -499,6 +500,7 @@
 			baseConfigurationReference = 368E1E1C64C4DAB08A8F8936 /* Pods-iOSMinimalCocoaPodsSample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = iOSMinimalCocoaPodsSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.bitrise.iOSMinimalCocoaPodsSample;
@@ -511,6 +513,7 @@
 			baseConfigurationReference = 19514CC5F56AA037E6B7A6E0 /* Pods-iOSMinimalCocoaPodsSample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = iOSMinimalCocoaPodsSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.bitrise.iOSMinimalCocoaPodsSample;
